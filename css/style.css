@@ -1,3 +1,7 @@
 body{
-    background-color: lightskyblue
+    background-color: lightskyblue;
+    color: white;
+}
+.terminos-titulo{
+    color: #FFE600;
 }
